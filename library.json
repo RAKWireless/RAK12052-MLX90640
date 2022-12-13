@@ -1,0 +1,31 @@
+{
+	"name": "RAK12052-MLX90640",
+	"version": "1.0.0",
+	"keywords": [
+		"IR",
+		"RAKWireless",
+		"WisBlock",
+		"RAK12052"
+	],
+	"description": "RAKWireless library for the matrix",
+	"frameworks": [
+		"arduino"
+	],
+	"platforms": [
+		"*"
+	],
+	"license": "MIT",
+	"authors": [
+		{
+			"email": "clark.li@rakwireless.com",
+			"url": "https://rakwireless.com",
+			"maintainer": true,
+			"name": "Clark Li"
+		}
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/RAKWireless/RAK12052-MLX90640"
+	},
+	"homepage": "https://rakwireless.com"
+}
