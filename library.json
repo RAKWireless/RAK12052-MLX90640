@@ -1,6 +1,6 @@
 {
 	"name": "RAK12052-MLX90640",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"keywords": [
 		"IR",
 		"RAKWireless",
@@ -27,5 +27,11 @@
 		"type": "git",
 		"url": "https://github.com/RAKWireless/RAK12052-MLX90640"
 	},
+	"dependencies": [
+		{
+			"owner": "adafruit",
+			"name": "BusIO"
+		}
+	],
 	"homepage": "https://rakwireless.com"
 }

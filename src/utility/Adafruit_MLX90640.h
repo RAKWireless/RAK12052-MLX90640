@@ -18,7 +18,7 @@
 #define _ADAFRUIT_MLX90640_H
 
 #include "../headers/MLX90640_API.h"
-#include "Adafruit_I2CDevice.h"
+#include <Adafruit_I2CDevice.h>
 #include "Arduino.h"
 #include <Wire.h>
 
